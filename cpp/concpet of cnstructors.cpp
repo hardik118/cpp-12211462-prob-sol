@@ -33,7 +33,7 @@ class student{
  	//even though s1 is called but still the default contructor  s1 is called 
 // in case of the cout's.
  	cout<<s1.name<<" ";
- 	cout<<s1.age;
+ 	cout<<s1.age<<endl;
  	cout<<s3.gender<<endl;
- 	
+ 	// default contructor has no parameter however input are required or canbe added in case of a parametirixed constrcutor 
  }
