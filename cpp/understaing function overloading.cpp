@@ -17,6 +17,10 @@ cout<< sum(2,3)<<endl;
 cout<<sum(3.4,4.3)<<endl;
 cout<<sum(2,3,4)<<endl;
 return 0;
+// this is a compile time polymorphism because the compiler knwos whiuch fucntin knwos which fucntion to execute
+//there are two types of polymorphism run time polymorphism 
+// this is knows as compile time polymorphism because the compiler knwos which fucntion to execute before ,
+// beore the program is compiled;
 }
 
 

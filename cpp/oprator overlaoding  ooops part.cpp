@@ -14,10 +14,12 @@ class count {
 		value =value +2;	
 		}
 		void display(){
-			cout<<"couint "<<value<<endl;
+			cout<<"count "<<value<<endl;
 			
 		}
 }; 
+// ITS A COMPILE TIME POLYMORPHISM;
+//OPERATORS THAT CANNOT BE OVERLAODED ARE _>  dot pointer, 
 int main(){
 	count count1;
 	++count1;
