@@ -7,7 +7,8 @@
  	// there arew two classe NAMELY  BASE CLASS AND PARENT CLASS 
  	#include<iostream>
  	using namespace std;
- 	
+ 	/* singel level -> when one class inherits another class
+ 	*/
  	
  	
  	class animal{
