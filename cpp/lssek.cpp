@@ -3,6 +3,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <fcntl.h>
+#define pi=3.14;
 
 int main() {
     const char* s1 = "IWILLPLACEDINTHEMULTINATIONALCOMPANYTHATWILLBEMYDREAMCOMETRUEAFTERL";
