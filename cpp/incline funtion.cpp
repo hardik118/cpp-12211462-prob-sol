@@ -1,0 +1,2 @@
+/* inline funciton are function which are one line can be made by  using the keyword inline
+*/
