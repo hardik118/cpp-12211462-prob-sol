@@ -17,3 +17,23 @@ int main() {
 
     return 0;
 }
+/*code for powrr recrsoin */
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+int  fact(int num){
+if(num==0) return 1  ;
+
+    int numfact= 2*fact(num-1);
+    return numfact;
+}
+
+int main() {
+    int num=5;
+    int factnum=fact(5);
+    cout<<factnum<<endl;
+    
+    
+
+    return 0;
+}
