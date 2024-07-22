@@ -29,5 +29,5 @@ int arr[6]={2, 90, 45, 0, 1,5};
     return 0;
 }
 /*helllo*/
-/*hello*/
+
 
